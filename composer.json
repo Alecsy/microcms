@@ -21,4 +21,4 @@
     "autoload": {
         "psr-4": {"MicroCMS\\": "src"}
     }
-}t
+}
